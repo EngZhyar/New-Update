@@ -482,7 +482,7 @@ function displayImages() {
         // Create download button
         const downloadBtn = document.createElement("button");
         downloadBtn.classList.add("download");
-        downloadBtn.textContent = "داونڵۆدکردنی وێنە";
+        downloadBtn.textContent = "⬇";
         
         // Add click event to download the image
         downloadBtn.onclick = function() {
