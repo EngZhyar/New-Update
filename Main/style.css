@@ -77,7 +77,7 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 header {
     position: relative;
-    background: linear-gradient(to bottom, #002aa8, #ffffff 160%);
+    background: red;
     text-align: center;
     color: white;
     font-size: 36px;
@@ -197,6 +197,7 @@ header {
 body{
 background: linear-gradient(to bottom, #0A0F1E, #000000);
 }
+
 
 
 
