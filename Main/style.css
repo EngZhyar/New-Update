@@ -72,12 +72,12 @@ img.land {
 }
 
 header{
-    font-size: 15px;
-
+    font-size: larger;
+  
     display: flex;
     width: 90%;
     height: 100%;
-    background: #003791;
+    background: linear-gradient(to bottom, #002aa8, #ffffff 160%);
     background-repeat: no-repeat;
     background-position: 100% 0%;
     color: #E0F2F1;
@@ -199,3 +199,4 @@ font-size: 26px;
 body{
 background: linear-gradient(to bottom, #0A0F1E, #000000);
 }
+
