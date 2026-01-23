@@ -14,7 +14,7 @@ h1{
     color: white;
     text-shadow: #000000 2px 2px 4px;
     padding: 20px;
-    font-size: 24px;
+    font-size: 20px;
     background-color: #3650b8;
 border-radius: 10px;
 margin: 10px;
@@ -24,7 +24,6 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 header {
     position: relative;
-    background: linear-gradient(to bottom, #002aa8, #ffffff 160%);
     text-align: center;
     color: white;
     font-size: 36px;
@@ -185,6 +184,7 @@ img.land {
 body{
 background: linear-gradient(to bottom, #0A0F1E, #000000);
 }
+
 
 
 
