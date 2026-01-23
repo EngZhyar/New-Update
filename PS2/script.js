@@ -603,32 +603,6 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 
-// Loading screen functionality
-window.addEventListener('load', function() {
-    setTimeout(function() {
-        const loadingScreen = document.getElementById('loading-screen');
-        const mainContent = document.getElementById('main-content');
-        
-        // Hide loading screen
-        loadingScreen.style.opacity = '0';
-        
-        // Show main content after a short delay
-        setTimeout(function() {
-            loadingScreen.style.display = 'none';
-            mainContent.style.display = 'block';
-            
-            // Add show class for fade in effect
-            setTimeout(function() {
-                mainContent.classList.add('show');
-            }, 50);
-        }, 500);
-        
-        // Initialize your gallery
-        displayImages();
-    }, 1500); // Adjust time (1500ms = 1.5 seconds)
-});
-
-
 // Initialize when page loads
 document.addEventListener('DOMContentLoaded', function() {
     displayImages();
