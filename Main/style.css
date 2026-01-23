@@ -48,7 +48,8 @@ img {
     transition: transform 0.3s ease;
 
 }
-img:hover{
+.item:hover{
+        transition: transform 0.3s ease;
 
     transform: scale(1.1);
 }
@@ -71,6 +72,7 @@ img.land {
 }
 
 header{
+    font-size: 15px;
 
     display: flex;
     width: 90%;
@@ -87,7 +89,6 @@ header{
     border-radius: 10px;
      font-family: 'Poppins', 'Times New Roman';
 font-weight: 700; /* 700 = bold */
-font-size: larger;
 }
 
 div.fullBody{
@@ -151,7 +152,7 @@ img {
     transition: transform 0.3s ease;
 
 }
-img:hover{
+.item:hover{
 
     transform: scale(1.1);
 }
@@ -173,7 +174,6 @@ img.land {
 }
 
 header{
-
     display: flex;
     width: 90%;
     height: 100%;
@@ -189,7 +189,7 @@ header{
     border-radius: 10px;
      font-family: 'Poppins', 'Times New Roman';
 font-weight: 700; /* 700 = bold */
-font-size: larger;
+font-size: 26px;
 }
 
 
