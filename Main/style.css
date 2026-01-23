@@ -70,25 +70,28 @@ img.land {
     transition: transform 0.3s ease;
 
 }
-
-header{
-    font-size: larger;
-  
-    display: flex;
-    width: 90%;
-    height: 100%;
+h1{
     background: linear-gradient(to bottom, #002aa8, #ffffff 160%);
-    background-repeat: no-repeat;
-    background-position: 100% 0%;
-    color: #E0F2F1;
-    text-shadow: black 5px 5px 10px;
     text-align: center;
-    justify-content: space-between;
+    color: white;
+    text-shadow: #000000 2px 2px 4px;
     padding: 20px;
-    margin: 20px;
+    font-size: 24px;
+    background-color: #3650b8;
+border-radius: 10px;
+margin: 10px;
+display: fixed;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+    position: relative;
+    background: linear-gradient(to bottom, #002aa8, #ffffff 160%);
+    text-align: center;
+    color: white;
+    font-size: 36px;
     border-radius: 10px;
-     font-family: 'Poppins', 'Times New Roman';
-font-weight: 700; /* 700 = bold */
+    margin: 10px;
 }
 
 div.fullBody{
@@ -173,25 +176,29 @@ img.land {
 
 }
 
-header{
-    display: flex;
-    width: 90%;
-    height: 100%;
-    background-color: #003791;
-    background-repeat: no-repeat;
-    background-position: 100% 0%;
-    color: #E0F2F1;
-    text-shadow: black 5px 5px 10px;
+h1{
+    background: linear-gradient(to bottom, #002aa8, #ffffff 160%);
     text-align: center;
-    justify-content: space-between;
+    color: white;
+    text-shadow: #000000 2px 2px 4px;
     padding: 20px;
-    margin: 20px;
-    border-radius: 10px;
-     font-family: 'Poppins', 'Times New Roman';
-font-weight: 700; /* 700 = bold */
-font-size: 26px;
+    font-size: 24px;
+    background-color: #3650b8;
+border-radius: 10px;
+margin: 10px;
+display: fixed;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+header {
+    position: relative;
+    background: linear-gradient(to bottom, #002aa8, #ffffff 160%);
+    text-align: center;
+    color: white;
+    font-size: 36px;
+    border-radius: 10px;
+    margin: 10px;
+}
 
   
 }
@@ -199,4 +206,5 @@ font-size: 26px;
 body{
 background: linear-gradient(to bottom, #0A0F1E, #000000);
 }
+
 
