@@ -47,7 +47,6 @@ justify-content: center;
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 20px;
     background-position: center;
     background-size: auto;
 }
@@ -184,6 +183,7 @@ img.land {
 body{
 background: linear-gradient(to bottom, #0A0F1E, #000000);
 }
+
 
 
 
