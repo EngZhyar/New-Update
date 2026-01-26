@@ -1,4 +1,4 @@
-const imagesPerPage = 30;
+const imagesPerPage = 20;
 let currentPage = 1;
 
 // Array of objects containing image path and price
