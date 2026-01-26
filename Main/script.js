@@ -24,8 +24,8 @@ const games = [
     { image: "images/18.jpeg", price: "2500 IQD" },
     { image: "images/19.jpeg", price: "2500 IQD" },
     { image: "images/20.jpeg", price: "2500 IQD" },
-    { image: "images/21.jpeg", price: "2500 IQD" },
-    { image: "images/22.jpeg", price: "2500 IQD" },
+
+   { image: "images/22.jpeg", price: "2500 IQD" },
     { image: "images/23.jpeg", price: "2500 IQD" },
     { image: "images/24.jpeg", price: "2500 IQD" },
     { image: "images/25.jpeg", price: "2500 IQD" },
