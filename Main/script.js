@@ -56,9 +56,7 @@ const games = [
 
     { image: "images/6a.jpeg", price: "6000 IQD" },
     { image: "images/6b.jpeg", price: "6000 IQD" },
-    { image: "images/6c.jpeg", price: "6000 IQD" },
     { image: "images/6d.jpeg", price: "6000 IQD" },
-    { image: "images/6f.jpeg", price: "6000 IQD" },
     { image: "images/6g.jpeg", price: "6000 IQD" },
     { image: "images/6h.jpeg", price: "6000 IQD" },
     { image: "images/6i.jpeg", price: "6000 IQD" },
@@ -70,13 +68,55 @@ const games = [
     { image: "images/15e.jpeg", price: "15000 IQD" },
     { image: "images/15f.jpeg", price: "15000 IQD" },
     { image: "images/15g.jpeg", price: "15000 IQD" },
-    { image: "images/15h.jpeg", price: "15000 IQD" },
     { image: "images/15i.jpeg", price: "15000 IQD" },
 
     { image: "images/20a.jpeg", price: "20000 IQD" },
     { image: "images/20b.jpeg", price: "20000 IQD" },
 
 
+
+
+    { image: "images/1b.jpeg", price: "1000 IQD" },
+    { image: "images/1c.jpeg", price: "1000 IQD" },
+    { image: "images/1d.jpeg", price: "1000 IQD" },
+    { image: "images/2a.jpeg", price: "2000 IQD" },
+    { image: "images/2b.jpeg", price: "2000 IQD" },
+    { image: "images/5i.jpeg", price: "5000 IQD" },
+    { image: "images/5j.jpeg", price: "5000 IQD" },
+    { image: "images/5k.jpeg", price: "5000 IQD" },
+    {    image: "images/7c.jpeg", price: "7000 IQD" },
+    {    image: "images/7a.jpeg", price: "7000 IQD" },
+    {    image: "images/7b.jpeg", price: "7000 IQD" },
+    {    image: "images/8a.jpeg", price: "8000 IQD" },
+    {    image: "images/10a.jpeg", price: "10000 IQD" },
+    {    image: "images/10b.jpeg", price: "10000 IQD" },
+    {    image: "images/10d.jpeg", price: "10000 IQD" },
+    {    image: "images/10e.jpeg", price: "10000 IQD" },
+    {    image: "images/10f.jpeg", price: "10000 IQD" },
+    {    image: "images/10h.jpeg", price: "10000 IQD" },
+    {    image: "images/10i.jpeg", price: "10000 IQD" },
+    {    image: "images/10j.jpeg", price: "10000 IQD" },
+    {    image: "images/10k.jpeg", price: "10000 IQD" },
+    {    image: "images/10l.jpeg", price: "10000 IQD" },
+    {    image: "images/10m.jpeg", price: "10000 IQD" },
+    {    image: "images/10n.jpeg", price: "10000 IQD" },
+    {    image: "images/10o.jpeg", price: "10000 IQD" },
+    {    image: "images/10q.jpeg", price: "10000 IQD" },
+    {    image: "images/10r.jpeg", price: "10000 IQD" },
+    {    image: "images/15j.jpeg", price: "15000 IQD" },
+    {    image: "images/20c.jpeg", price: "20000 IQD" },
+    {    image: "images/25a.jpeg", price: "25000 IQD" },
+    {    image: "images/25b.jpeg", price: "25000 IQD" },
+    {    image: "images/25c.jpeg", price: "25000 IQD" },
+    {    image: "images/40.jpeg", price: "40000 IQD" },
+    
+
+
+
+
+
+
+   
    
     // Add more games here
     // { image: "images/6.jpeg", price: "$34.99" },
