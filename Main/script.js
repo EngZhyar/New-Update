@@ -3,6 +3,23 @@ let currentPage = 1;
 
 // Array of objects containing image path and price
 const games = [
+
+
+    { image: "images/5g.jpeg", price: "5000 IQD" },
+    {    image: "images/40.jpeg", price: "40000 IQD" },
+    {    image: "images/25b.jpeg", price: "25000 IQD" },
+    {    image: "images/15j.jpeg", price: "15000 IQD" },
+    { image: "images/20b.jpeg", price: "20000 IQD" },
+    { image: "images/20a.jpeg", price: "20000 IQD" },
+    { image: "images/15g.jpeg", price: "15000 IQD" },
+    { image: "images/6g.jpeg", price: "6000 IQD" },
+    { image: "images/6h.jpeg", price: "6000 IQD" },
+    { image: "images/6a.jpeg", price: "6000 IQD" },
+    { image: "images/6b.jpeg", price: "6000 IQD" },
+    { image: "images/6d.jpeg", price: "6000 IQD" },
+    { image: "images/5h.jpeg", price: "5000 IQD" },
+
+
    
   { image: "images/1.jpeg", price: "2500 IQD" },
     { image: "images/2.jpeg", price: "2500 IQD" },
@@ -51,14 +68,9 @@ const games = [
     { image: "images/5c.jpeg", price: "5000 IQD" },
     { image: "images/5d.jpeg", price: "5000 IQD" },
     { image: "images/5f.jpeg", price: "5000 IQD" },
-    { image: "images/5g.jpeg", price: "5000 IQD" },
-    { image: "images/5h.jpeg", price: "5000 IQD" },
 
-    { image: "images/6a.jpeg", price: "6000 IQD" },
-    { image: "images/6b.jpeg", price: "6000 IQD" },
-    { image: "images/6d.jpeg", price: "6000 IQD" },
-    { image: "images/6g.jpeg", price: "6000 IQD" },
-    { image: "images/6h.jpeg", price: "6000 IQD" },
+
+
     { image: "images/6i.jpeg", price: "6000 IQD" },
 
     { image: "images/15a.jpeg", price: "15000 IQD" },
@@ -67,11 +79,8 @@ const games = [
     { image: "images/15d.jpeg", price: "15000 IQD" },
     { image: "images/15e.jpeg", price: "15000 IQD" },
     { image: "images/15f.jpeg", price: "15000 IQD" },
-    { image: "images/15g.jpeg", price: "15000 IQD" },
     { image: "images/15i.jpeg", price: "15000 IQD" },
 
-    { image: "images/20a.jpeg", price: "20000 IQD" },
-    { image: "images/20b.jpeg", price: "20000 IQD" },
 
 
 
@@ -103,12 +112,9 @@ const games = [
     {    image: "images/10o.jpeg", price: "10000 IQD" },
     {    image: "images/10q.jpeg", price: "10000 IQD" },
     {    image: "images/10r.jpeg", price: "10000 IQD" },
-    {    image: "images/15j.jpeg", price: "15000 IQD" },
     {    image: "images/20c.jpeg", price: "20000 IQD" },
     {    image: "images/25a.jpeg", price: "25000 IQD" },
-    {    image: "images/25b.jpeg", price: "25000 IQD" },
     {    image: "images/25c.jpeg", price: "25000 IQD" },
-    {    image: "images/40.jpeg", price: "40000 IQD" },
     
 
 
