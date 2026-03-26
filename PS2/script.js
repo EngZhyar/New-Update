@@ -41,7 +41,6 @@ const imagePaths = [
 "Ps2Covers/SCUS-97471.jpg",
 
 // //adventure
-"Ps2Covers/SCES-52412.jpg",
 "Ps2Covers/SCES-52529.jpg",
 "Ps2Covers/SCES-53326.jpg",
 "Ps2Covers/SCUS-97113.jpg",
@@ -67,14 +66,10 @@ const imagePaths = [
 "Ps2Covers/SLES-52782.jpg",
 
 // shooter
-"Ps2Covers/SCES-54477.jpg",
 "Ps2Covers/SCES-54794.jpg",
 "Ps2Covers/SCUS-97133.jpg",
-"Ps2Covers/SCUS-97134.jpg",
-"Ps2Covers/SCUS-97275.jpg",
 "Ps2Covers/SCUS-97402.jpg",
 "Ps2Covers/SCUS-97408.jpg",
-"Ps2Covers/SCUS-97474.jpg",
 "Ps2Covers/SLES-50326.jpg",
 "Ps2Covers/SLES-50358.jpg",
 "Ps2Covers/SLES-50684.jpg",
@@ -129,7 +124,6 @@ const imagePaths = [
 
 
 "Ps2Covers/SLES-52843.jpg",
-"Ps2Covers/SLES-52861.jpg",
 "Ps2Covers/SLES-52954.jpg",
 "Ps2Covers/SLES-52974.jpg",
 "Ps2Covers/SLES-52988.jpg",
@@ -146,7 +140,6 @@ const imagePaths = [
 "Ps2Covers/SLES-53393.jpg",
 "Ps2Covers/SLES-53430.jpg",
 "Ps2Covers/SLES-53439.jpg",
-"Ps2Covers/SLES-53473.jpg",
 "Ps2Covers/SLES-53492.jpg",
 "Ps2Covers/SLES-53564.jpg",
 "Ps2Covers/SLES-53621.jpg",
@@ -155,8 +148,6 @@ const imagePaths = [
 "Ps2Covers/SLES-53702.jpg",
 "Ps2Covers/SLES-53706.jpg",
 "Ps2Covers/SLES-53717.jpg",
-"Ps2Covers/SLES-53729.jpg",
-"Ps2Covers/SLES-53759.jpg",
 "Ps2Covers/SLES-53777.jpg",
 "Ps2Covers/SLES-53850.jpg",
 "Ps2Covers/SLES-53855.jpg",
@@ -269,7 +260,6 @@ const imagePaths = [
 "Ps2Covers/SLUS-20669.jpg",
 "Ps2Covers/SLUS-20671.jpg",
 "Ps2Covers/SLUS-20680.jpg",
-"Ps2Covers/SLUS-20687.jpg",
 "Ps2Covers/SLUS-20689.jpg",
 "Ps2Covers/SLUS-20709.jpg",
 "Ps2Covers/SLUS-20712.jpg",
@@ -456,8 +446,6 @@ const imagePaths = [
 "Ps2Covers/SLES-55676.png",
 "Ps2Covers/SLES-55673.jpg",
 //fifa
-"Ps2Covers/SLES-53064.jpg",
-"Ps2Covers/SLUS-21369.jpg",
 "Ps2Covers/SLUS-20097.jpg",
 "Ps2Covers/SLUS-20280.jpg",
 "Ps2Covers/SLUS-20580.jpg",
