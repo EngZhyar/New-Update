@@ -5,11 +5,11 @@ let currentPage = 1;
 const imagePaths = [
 //Gta
 "Ps2Covers/GTA Faxir.png",
+"Ps2Covers/SLES-50330.jpg",
 "Ps2Covers/SLES-51061.jpg",
 "Ps2Covers/SLES-54135.jpg",
 "Ps2Covers/SLES-54622.jpg",
 "Ps2Covers/SLUS-20946.jpeg",
-"Ps2Covers/SLES-50330.jpg",
 
 //god of war
 "Ps2Covers/cover.jpg",
@@ -21,8 +21,8 @@ const imagePaths = [
 "Ps2Covers/SCES-52042.jpg",
 "Ps2Covers/SCES-53950.jpg",
 "Ps2Covers/SCUS-97328.jpg",
-"Ps2Covers/SLUS-20693.jpg",
 "Ps2Covers/SLES-50047.jpg",
+"Ps2Covers/SLUS-20693.jpg",
 
 //car war
 "Ps2Covers/SCES-50360.jpg",
@@ -79,8 +79,8 @@ const imagePaths = [
 "Ps2Covers/SLES-51820.jpg",
 "Ps2Covers/SLES-51897.jpg",
 "Ps2Covers/SLES-52171.jpg",
-"Ps2Covers/SLES-52702.jpg",
 "Ps2Covers/SLES-52536.jpg",
+"Ps2Covers/SLES-52702.jpg",
 
 //stratigy
 "Ps2Covers/SLES-50282.jpg",
@@ -117,65 +117,66 @@ const imagePaths = [
 "Ps2Covers/SLES-51873.jpg",
 
 //pes
+"Ps2Covers/PES 2010.jpg",
+"Ps2Covers/PES 2014.jpg",
+"Ps2Covers/PES 2017.png",
+"Ps2Covers/PES 2024.jpeg",
+"Ps2Covers/SLAJ-25115.jpg",
+"Ps2Covers/SLES-33376.jpeg",
 "Ps2Covers/SLES-50412.jpg",
 "Ps2Covers/SLES-51114.jpg",
 "Ps2Covers/SLES-51912.jpg",
 "Ps2Covers/SLES-52760.jpg",
 "Ps2Covers/SLES-53544.jpg",
 "Ps2Covers/SLES-54203.jpg",
-"Ps2Covers/SLUS-21464.jpg",
 "Ps2Covers/SLES-54913.jpg",
 "Ps2Covers/SLES-55406.jpg",
-"Ps2Covers/PES 2010.jpg",
-"Ps2Covers/SLAJ-25115.jpg",
 "Ps2Covers/SLES-55587.png",
 "Ps2Covers/SLES-55656.jpg",
 "Ps2Covers/SLES-55666.jpg",
+"Ps2Covers/SLES-55673.jpg",
+"Ps2Covers/SLES-55676.png",
+"Ps2Covers/SLUS-21464.jpg",
 "Ps2Covers/SLUS-21955.jpg",
-"Ps2Covers/PES 2014.jpg",
 "Ps2Covers/pes 2015.jpeg",
 "Ps2Covers/pes 2016.jpeg",
-"Ps2Covers/PES 2017.png",
-"Ps2Covers/SLES-33376.jpeg",
 "Ps2Covers/pes 2019.jpg",
 "Ps2Covers/pes 2020.jpg",
 "Ps2Covers/pes 2021.jpg",
 "Ps2Covers/pes 2023.jpg",
-"Ps2Covers/PES 2024.jpeg",
-"Ps2Covers/SLES-55676.png",
-"Ps2Covers/SLES-55673.jpg",
 
 //fifa
+"Ps2Covers/SLES-54870.jpg",
+"Ps2Covers/SLES-55643.jpg",
+"Ps2Covers/SLES-55664.jpg",
+"Ps2Covers/SLES-55671.jpg",
+"Ps2Covers/SLPM-55134.jpg",
+"Ps2Covers/SLPM-62268.jpg",
+"Ps2Covers/SLPM-66374.png",
+"Ps2Covers/SLPS-25691.jpg",
 "Ps2Covers/SLUS-20097.jpg",
 "Ps2Covers/SLUS-20280.jpg",
 "Ps2Covers/SLUS-20580.jpg",
 "Ps2Covers/SLUS-20750.jpg",
 "Ps2Covers/SLUS-21051.jpg",
+"Ps2Covers/SLUS-21220.jpg",
 "Ps2Covers/SLUS-21280.jpg",
 "Ps2Covers/SLUS-21433.jpg",
-"Ps2Covers/SLES-54870.jpg",
-"Ps2Covers/SLPM-55134.jpg",
 "Ps2Covers/SLUS-21905.jpg",
-"Ps2Covers/SLES-55643.jpg",
 "Ps2Covers/SLUS-21947.jpg",
-"Ps2Covers/SLES-55664.jpg",
-"Ps2Covers/SLES-55671.jpg",
-"Ps2Covers/SLPM-62268.jpg",
-"Ps2Covers/SLPM-66374.png",
-"Ps2Covers/SLPS-25691.jpg",
-"Ps2Covers/SLUS-21220.jpg",
 
 //wwe
+"Ps2Covers/SLES-55635.jpg",
+"Ps2Covers/SLUS-20316.jpg",
+"Ps2Covers/SLUS-21427.jpg",
 "Ps2Covers/SLUS-21810.jpg",
 "Ps2Covers/SLUS-21901.jpg",
-"Ps2Covers/SLES-55635.jpg",
+"Ps2Covers/SLUS-21940.jpg",
 "Ps2Covers/wwe 2k22.jpg",
 "Ps2Covers/wwe 2k23.jpg",
-"Ps2Covers/SLUS-21427.jpg",
-"Ps2Covers/SLUS-20316.jpg",
-"Ps2Covers/SLUS-21940.jpg",
 
-//Uncategorized (remaining files from after tmnt)
+//Uncategorized (all remaining files, sorted alphabetically)
+"Ps2Covers/PAPX-90203.jpg",
 "Ps2Covers/SLES-52843.jpg",
 "Ps2Covers/SLES-52954.jpg",
 "Ps2Covers/SLES-52974.jpg",
@@ -466,9 +467,6 @@ const imagePaths = [
 "Ps2Covers/SLUS-21935.jpg",
 "Ps2Covers/SLUS-21938.jpg",
 "Ps2Covers/sega.jpeg",
-"Ps2Covers/PAPX-90203.jpg",
-
-
 ];// Function to display images for the current page
 function displayImages() {
     const start = (currentPage - 1) * imagesPerPage;
