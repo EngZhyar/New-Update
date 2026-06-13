@@ -144,7 +144,6 @@ const imagePaths = [
 "Ps2Covers/SLES-53564.jpg",
 "Ps2Covers/SLES-53621.jpg",
 "Ps2Covers/SLES-53624.jpg",
-"Ps2Covers/SLES-53657.jpg",
 "Ps2Covers/SLES-53702.jpg",
 "Ps2Covers/SLES-53706.jpg",
 "Ps2Covers/SLES-53717.jpg",
